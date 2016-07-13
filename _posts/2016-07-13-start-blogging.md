@@ -3,6 +3,8 @@ layout: post
 title:  "블로깅을 시작하다"
 date:   2016-07-13 01:09:00 +0900
 categories: thinking
+tags: dev jekyll
+comments: true
 ---
 결국 `블로그`라는 것을 시작한다.
 

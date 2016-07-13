@@ -15,5 +15,9 @@ url: "http://lattekafe.com" # the base hostname & protocol for your site
 twitter_username: lattekafee
 github_username: lattekafe  
 
+
 # Build settings
 markdown: kramdown
+
+#disqus
+disqus: lattekafe

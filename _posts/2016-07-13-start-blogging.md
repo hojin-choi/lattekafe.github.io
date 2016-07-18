@@ -6,7 +6,6 @@ categories: thinking
 tags: 
 - dev
 - jekyll
-comments: true
 ---
 결국 `블로그`라는 것을 시작한다.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "SQL 기초 정리"
-date:   2016-07-22 01:02:00 +0900
+title:  "SQL 요약 정리"
+date:   2016-07-22 01:29:00 +0900
 categories: dev
 tags: 
 - sql

@@ -12,5 +12,11 @@ layout: default
     {{ content }}
   </div>
 
+  <div class="post-tags">
+    {% for tag in page.tags %}
+      <span class="post-meta">#{{ tag }}</span>
+    {% endfor %}
+  </div>
+
   {% include comments.html %}
 </article>
